@@ -11,4 +11,12 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.trabalho1_poo.Trabalho1_POO</exec.mainClass>
     </properties>
+    
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.pdfbox</groupId>
+            <artifactId>pdfbox</artifactId>
+            <version>3.0.0</version> <!-- Verifique a versão mais recente no repositório Maven -->
+        </dependency>
+    </dependencies>
 </project>
