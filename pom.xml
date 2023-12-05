@@ -18,5 +18,11 @@
             <artifactId>pdfbox</artifactId>
             <version>3.0.0</version> <!-- Verifique a versão mais recente no repositório Maven -->
         </dependency>
+        
+        <dependency>
+            <groupId>org.xerial</groupId>
+            <artifactId>sqlite-jdbc</artifactId>
+            <version>3.36.0.3</version>
+        </dependency>
     </dependencies>
 </project>
